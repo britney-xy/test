@@ -1,3 +1,3 @@
 puppy v1
-puppt v2
-you are really cute
+puppy v2
+puppy v3 (the collision has been solved)
